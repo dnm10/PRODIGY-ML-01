@@ -1,4 +1,4 @@
-# PRODIGY-ML-01
+# PRODIGY_ML_01
 # 🏡 House Price Prediction – Linear Regression
 
 This project implements a **Linear Regression** model to predict housing prices based on selected features. It uses the [Kaggle House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset.
