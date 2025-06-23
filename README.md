@@ -7,11 +7,11 @@ This project implements a **Linear Regression** model to predict housing prices 
 
 ## 📌 Objective
 
-Build a predictive model using linear regression to estimate the **sale price of houses** based on:
+Build a predictive model using **linear regression** to estimate the **sale price of houses** based on:
 
-- 🏠 Above-ground living area (square footage)
-- 🛏️ Number of bedrooms
-- 🛁 Number of full bathrooms
+- 🏠 **Above-ground living area (square footage)**
+- 🛏️ **Number of bedrooms**
+- 🛁 **Number of full bathrooms**
 
 ---
 
@@ -20,14 +20,14 @@ Build a predictive model using linear regression to estimate the **sale price of
 - **Algorithm**: Linear Regression
 - **Framework**: Scikit-learn
 - **Evaluation Metric**: Mean Squared Error (MSE)
-- **Tools**: Python, pandas, matplotlib
+- **Tools**: Python, Pandas, Matplotlib, Seaborn
 
 ---
 
 ## 📊 Results
-- Mean Squared Error (MSE) is printed as an evaluation metric
+- **Mean Squared Error (MSE)** is printed as an evaluation metric
 
-- A scatter plot of actual vs. predicted prices is generated to visualize accuracy
+- A scatter plot of **actual vs. predicted prices** is generated to visualize accuracy
 
 ---
 
